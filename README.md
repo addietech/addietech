@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @addietech
-- 👀 I’m interested in JS3, Web3, Deep Learning
-- 🌱 I’m currently learning Web Dev and Data Analytics
+- 👀 I’m interested in Deep Learning 
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me - kashyap.unite@gmail.com
 
