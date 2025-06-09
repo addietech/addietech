@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @addietech
-- 👀 I’m interested in Deep Learning 
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Artificial Intelligence
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me - kashyap.unite@gmail.com
 
